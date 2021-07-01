@@ -215,7 +215,7 @@ section .title::after {
 
 /* about section styling */
 .about .title::after {
-	content: "Know me better";
+	content: "Know Us Better";
 }
 .about .about-content .left {
 	width: 45%;
@@ -381,7 +381,7 @@ section .title::after {
 
 /* projects section styling */
 .projects .title::after {
-	content: "Our work";
+	content: "Our Work";
 }
 .projects .carousel .card {
 	width: calc(33%);
@@ -426,7 +426,7 @@ section .title::after {
 
 /* contact section styling */
 .contact .title::after {
-	content: "Get in Touch";
+	content: "Get In Touch";
 }
 .contact .contact-content .column {
 	width: calc(50% - 30px);
